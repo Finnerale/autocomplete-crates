@@ -11,7 +11,7 @@
       }
     }
   },
-  "repository": "https://gitlab.com/Finnerale/autocomplete-crates",
+  "repository": "https://github.com/Finnerale/autocomplete-crates",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
