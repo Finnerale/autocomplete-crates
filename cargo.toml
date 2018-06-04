@@ -1,0 +1,9 @@
+# cargo.toml file for testing the package
+
+[package]
+name = "autocomplete-crates"
+version = "0.1.0"
+authors = ["Leopold Luley"]
+
+[dependencies]
+specs = "0.11.2"
